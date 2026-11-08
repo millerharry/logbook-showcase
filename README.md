@@ -95,10 +95,10 @@ More detail: [docs/architecture.md](docs/architecture.md)
 
 ## Tech stack
 
-**App:** Swift · SwiftUI · Core Data · WidgetKit · ActivityKit · WatchKit / WatchConnectivity · HealthKit · MapKit & Core Location · StoreKit · Sign in with Apple
-**Backend:** Firebase (Firestore, Auth, Storage, Cloud Functions on Node.js, Cloud Messaging, Crashlytics) · Firestore security rules
-**AI:** Anthropic Claude API (tool use, structured output) · Claude Code for development
-**Quality:** XCTest & XCUITest · SwiftLint · custom design-token lint · GitHub Actions · Xcode Cloud · TestFlight
+- **App:** Swift · SwiftUI · Core Data · WidgetKit · ActivityKit · WatchKit / WatchConnectivity · HealthKit · MapKit & Core Location · StoreKit · Sign in with Apple
+- **Backend:** Firebase (Firestore, Auth, Storage, Cloud Functions on Node.js, Cloud Messaging, Crashlytics) · Firestore security rules
+- **AI:** Anthropic Claude API (tool use, structured output) · Claude Code for development
+- **Quality:** XCTest & XCUITest · SwiftLint · custom design-token lint · GitHub Actions · Xcode Cloud · TestFlight
 
 ## About me
 
